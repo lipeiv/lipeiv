@@ -4,11 +4,11 @@
     <tr>
         <td>
             <!--左侧内容-->
-            <img src="https://github-readme-stats.vercel.app/api?username=lipeiv&count_private=true&show_icons=true&theme=radical&locale=ja&hide_border=true" alt="stats" />
+            <img src="https://github-readme-stats.vercel.app/api?username=lipeiv&count_private=true&show_icons=true&theme=radical&locale=ja" alt="stats" />
         </td>
         <td>
             <!--右侧内容-->
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lipeiv&theme=radical&locale=ja" alt="top-langs"/>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lipeiv&theme=radical&hide_border=false" alt="top-langs"/>
         </td>
     </tr>
 </table>
