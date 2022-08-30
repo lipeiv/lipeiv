@@ -8,7 +8,7 @@
         </td>
         <td>
             <!--右侧内容-->
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lipeiv&count_private=true&theme=radical&hide_border=false" alt="top-langs"/>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lipeiv&count_private=true&theme=radical&locale=ja" alt="top-langs"/>
         </td>
     </tr>
 </table>
