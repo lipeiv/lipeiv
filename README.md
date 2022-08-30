@@ -4,7 +4,7 @@
     <tr>
         <td>
             <!--左侧内容-->
-            <img src="https://github-readme-stats.vercel.app/api?username=lipeiv&count_private=true&show_icons=true&theme=radical&locale=ja" alt="stats" />
+            <img src="https://github-readme-stats.vercel.app/api?username=lipeiv&count_private=true&show_icons=true&theme=radical&locale=ja&hide_border=false" alt="stats" />
         </td>
         <td>
             <!--右侧内容-->
