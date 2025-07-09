@@ -13,4 +13,4 @@
     </tr>
 </table>
 
-![](https://raw.githubusercontent.com/lipeiv/lipeiv/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/lipeiv/lipeiv/blob/output/github-contribution-grid-snake.svg)
